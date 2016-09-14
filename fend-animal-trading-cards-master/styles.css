@@ -1,0 +1,41 @@
+h1 {
+
+    font-family: 'Lobster Two', cursive;
+    color: salmon;
+    padding: 4px;
+}
+body {
+	font-family: 'Quicksand', sans-serif;
+	color: gray;
+}
+
+ul {
+	list-style-type: none;
+}
+
+span {
+	font-weight: bold;
+}
+img {
+ 	padding: 4px;
+ }
+
+#card {
+	width: 300px;
+	padding: 5px;
+	border-style: solid;
+	border-width: 1px;
+	border-color: #d3d3d3;
+	box-shadow: 6px 6px 5px #d3d3d3;
+	margin: auto;
+}
+
+#facts {
+
+border-style:solid;
+border-width: 1px;
+border-color: #d3d3d3;
+padding: 10px;
+margin: auto;
+
+}
